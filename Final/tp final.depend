@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1624600112 source:c:\users\manu\desktop\tp final abraham manuel\misfunciones.c
+	"misfunciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1624600211 c:\users\manu\desktop\tp final abraham manuel\misfunciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1624600037 source:c:\users\manu\desktop\tp final abraham manuel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"misfunciones.h"
+
